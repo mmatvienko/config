@@ -15,6 +15,8 @@ POWERLEVEL9K_MODE="awesome-patched"
 source ~/.fonts/*.sh
 # have to install `brew install zsh-syntax-highlighting`
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# have to install `git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions`
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # Set of themes to load
 # Setting this variable when ZSH_THEME=random
